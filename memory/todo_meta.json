@@ -1,0 +1,20 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "获取Supabase认证信息",
+        "details": "获取用户的Supabase项目凭据，用于数据库、身份验证和实时功能的后端支持",
+        "status": "completed",
+        "priority": "high"
+      },
+      "2": {
+        "id": "2",
+        "content": "开发弱智AI对话网站全栈应用",
+        "details": "1. 前端：创建优美的对话界面，支持实时消息显示\n2. 后台管理界面：API设置页面、基础提示词配置、用户对话记录查看\n3. 数据库设计：存储API配置、提示词、对话记录\n4. 身份验证：管理员登录系统\n5. API集成：连接外部AI服务\n6. 实时功能：对话实时更新",
+        "status": "completed",
+        "priority": "high"
+      }
+    }
+  }
+}
