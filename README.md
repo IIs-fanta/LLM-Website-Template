@@ -14,9 +14,9 @@
 
 ### 登录信息
 
-- **后台地址**: `https://guc7phjovmb1.space.minimax.io/admin/login`
-- **默认账号**: `admin`
-- **默认密码**: `admin123`
+- **后台地址**: 
+- **默认账号**:
+- **默认密码**: 
 
 ### 访问步骤
 
