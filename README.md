@@ -1,4 +1,6 @@
 # 世界上最聪明的人工智能 - 管理员使用手册
+<img width="1287" height="1267" alt="image" src="https://github.com/user-attachments/assets/1429c715-8437-4c34-b31f-cda8f4c66432" />
+<img width="1382" height="492" alt="image" src="https://github.com/user-attachments/assets/0b0a0344-ab5a-49b8-8d84-345b61606edf" />
 
 ## 📝 目录
 
